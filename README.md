@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+I'm Julie Huang, a student in 42 Heilbronn.
+
+- 🔭 I’m currently working on miniRT, which is about building a ray tracer that renders simple 3D scenes.
+- 🌱 I’m currently learning C++;
+- 📫 How to reach me: juliehxj@outlook.com
