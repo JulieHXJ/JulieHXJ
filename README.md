@@ -62,14 +62,6 @@ I approach coding with the same curiosity and rigor I once applied to music — 
 
 ---
 
-### 📊 GitHub Stats
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=JulieHXJ&show_icons=true&theme=default" height="160" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulieHXJ&layout=compact&theme=default" height="160" /> 
-</p>
-
----
-
 ### 🔗 Connect with Me
 <p align="center"> 
   <a href="https://www.linkedin.com/in/xiaojun-huang-91656623a/"> 
