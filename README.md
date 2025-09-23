@@ -70,14 +70,6 @@ I approach coding with the same curiosity and rigor I once applied to music — 
 
 ---
 
-### 🛠️ Tech Stack
-**Languages:** C, C++ (98/11), Bash, Python (basic), JavaScript  
-**Systems & Concepts:** Networking (TCP/IP, sockets, concurrency), UNIX Programming, Algorithms, Data Structures, Computer Graphics (ray tracing, linear algebra)  
-**Tools:** Git, GitHub, MiniLibX, CMake, Valgrind, GDB, Docker (basic), VS Code, Vim  
-**Web Basics:** HTML, CSS, JavaScript, Node.js, Express  
-
----
-
 ### 🔗 Connect with Me
 <p align="center"> 
   <a href="https://www.linkedin.com/in/xiaojun-huang-91656623a/"> 
