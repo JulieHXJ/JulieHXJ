@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 This is Julie (Xiaojun Huang), currently a student at **42 Heilbronn**.
-I’m a career changer with a background in music production and education, now focusing on **C, C++, networking, UNIX systems, and backend development**.  
+I’m a career changer with a background in music production and education, now focusing on **Software engineering and full-stack development**.  
 
 I approach coding with the same curiosity and rigor I once applied to music — always aiming for **100% completion, precision, and clean structure**.  
 
