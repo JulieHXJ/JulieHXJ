@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Julie 👋
 
 <!--
 **JulieHXJ/JulieHXJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,18 +16,30 @@ Here are some ideas to get you started:
 -->
 
 
-This is Julie (Xiaojun Huang), Software engineering student based in Germany.  
-Currently finishing my core curriculum at **42 Heilbronn** while pursuing a B.Sc. in **International Information Systems**.
+I’m a software engineering student in Germany, currently training through **42 Heilbronn** and studying **International Information Systems**.
 
-I’m in a phase of focused growth — consolidating fundamentals, completing my studies, and actively building small projects for my own interests.
+My path into tech did not start in a traditional way. I came from a background in music production and education, and gradually found myself drawn to programming through curiosity, structure, and problem solving. 
+
+I’m especially interested in systems, backend development, and AI-assisted tools that can support real workflows and creative work.
 
 ---
 
-### 👩‍💻 About Me
-- Completing the 42 core curriculum (systems programming, networking, C/C++) 
-- Achieved **1.0 in Java Programming and Advanced Mathematics** in the university program.
-- Career changer with a background in music production and education.
-- Have a crazy and b*tch-face shiba inu.
+### About Me
+
+- Studying **systems programming, networking, and C/C++** through the 42 curriculum
+- Pursuing academic training in **International Information Systems**
+- Strong interest in **backend systems, developer tools, and applied AI**
+- Career changer with a background in **music production and teaching**
+- Motivated by projects that connect technical depth with practical use
+
+---
+
+### What I’m Focused On
+
+- Strengthening my understanding of **system-level programming** and software fundamentals
+- Building small but meaningful projects in **backend, tooling, and AI-assisted workflows**
+- Exploring how software can support areas I care about, such as **creative work**, **knowledge systems**, and **pet care tools**
+
 ---
 
 ### 🛠️ Tech Stack  
@@ -36,10 +48,23 @@ I’m in a phase of focused growth — consolidating fundamentals, completing my
 C • C++ • Java • Bash • Python
 
 **Systems & Backend** 
-TCP/IP • Sockets • Concurrency • Non-blocking I/O • REST fundamentals
+TCP/IP • Sockets • Non-blocking I/O • REST fundamentals
 
 **Tools**  
 Git • Docker • Linux • CMake • GDB • Valgrind
+
+---
+
+### Project Areas
+
+**Systems Programming**
+- minishell42
+- ft_irc42
+- miniRT42
+
+**Applied AI / Tools**
+- MarketMirror
+- PawsonalCare
 
 ---
 
