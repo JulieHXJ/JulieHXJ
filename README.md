@@ -16,19 +16,16 @@ Here are some ideas to get you started:
 -->
 
 
-I’m a software engineering student in Germany, currently training through **42 Heilbronn** and studying **International Information Systems**.
-
-My path into tech did not start in a traditional way. I came from a background in music production and education, and gradually found myself drawn to programming through curiosity, structure, and problem solving. 
-
-I’m especially interested in systems, backend development, and AI-assisted tools that can support real workflows and creative work.
+an IT student in Germany with a background in music.  
+Now I’m combining 42’s hands-on systems training with Information Systems at THA, while building practical tools and AI ideas rooted in real life.
 
 ---
 
 ### About Me
 
-- Studying **systems programming, networking, and C/C++** through the 42 curriculum
+- Studying **Software Engineering** through the 42 curriculum
 - Pursuing academic training in **International Information Systems**
-- Strong interest in **backend systems, developer tools, and applied AI**
+- Strong interest in backend systems, developer tools, and applied AI
 - Career changer with a background in **music production and teaching**
 - Motivated by projects that connect technical depth with practical use
 
@@ -36,9 +33,9 @@ I’m especially interested in systems, backend development, and AI-assisted too
 
 ### What I’m Focused On
 
-- Strengthening my understanding of **system-level programming** and software fundamentals
-- Building small but meaningful projects in **backend, tooling, and AI-assisted workflows**
-- Exploring how software can support areas I care about, such as **creative work**, **knowledge systems**, and **pet care tools**
+- Strengthening my understanding of system-level programming and software fundamentals
+- Building small but meaningful projects in backend, tooling, and AI-assisted workflows
+- Exploring how software can support areas I care about, such as creative work, knowledge systems, and pet care tools
 
 ---
 
