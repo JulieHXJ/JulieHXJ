@@ -16,55 +16,47 @@ Here are some ideas to get you started:
 -->
 
 
-an IT student in Germany with a background in music.  
-Now I’m combining 42’s hands-on systems training with Information Systems at THA, while building practical tools and AI ideas rooted in real life.
+Business Informatics student in Germany with a focus on **cloud platform engineering and software systems**.
+
+I combine the project-based software engineering curriculum at **42 Heilbronn** with academic studies in **International Information Systems at TH Augsburg**.  
+
 
 ---
 
-### About Me
+### ☁️ What I'm Focused On
 
-- Studying **Software Engineering** through the 42 curriculum
-- Pursuing academic training in **International Information Systems**
-- Strong interest in backend systems, developer tools, and applied AI
-- Career changer with a background in **music production and teaching**
-- Motivated by projects that connect technical depth with practical use
-
----
-
-### What I’m Focused On
-
-- Strengthening my understanding of system-level programming and software fundamentals
-- Building small but meaningful projects in backend, tooling, and AI-assisted workflows
-- Exploring how software can support areas I care about, such as creative work, knowledge systems, and pet care tools
+- Building and operating **cloud-native platforms**
+- Infrastructure as Code with **Terraform**
+- Container orchestration with **Kubernetes**
+- Backend services and REST APIs with **Go**
+- CI/CD, GitOps, monitoring, and troubleshooting
+- Strengthening systems programming and networking fundamentals through 42
 
 ---
 
-### 🛠️ Tech Stack  
+### 🛠️ Tech Stack
 
-**Languages** 
-C • C++ • Java • Bash • Python
+**Cloud & Infrastructure**  
+STACKIT • OpenStack • Kubernetes • Terraform • Docker • Linux
 
-**Systems & Backend** 
-TCP/IP • Sockets • Non-blocking I/O • REST fundamentals
+**Platform & Operations**  
+GitLab CI/CD • GitOps • Argo CD • Prometheus • Grafana
+
+**Backend & Data**  
+Go • REST APIs • PostgreSQL • CloudNativePG • SQL
+
+**Programming**  
+C • C++ • Python • Go
+
+**Systems**  
+TCP/IP • Sockets • Non-blocking I/O • Concurrency
 
 **Tools**  
-Git • Docker • Linux • CMake • GDB • Valgrind
+Git • Bash • GDB • Valgrind
 
 ---
 
-### Project Areas
+### 📫 Connect
 
-**Systems Programming**
-- minishell42
-- ft_irc42
-- miniRT42
-
-**Applied AI / Tools**
-- MarketMirror
-- PawsonalCare
-
----
-
-### 🔗 Connect with Me
-LinkedIn: https://www.linkedin.com/in/xiaojun-huang-91656623a  
+[LinkedIn](https://www.linkedin.com/in/xiaojun-huang-91656623a)  
 Email: juliehxj@outlook.com
